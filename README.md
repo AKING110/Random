@@ -19,7 +19,7 @@
 - `pip install requests`
 - `pip install mechanize`
 - `pip install bs4`
-- `rm -rf AKING`
+- `rm -rf Random`
 - `git clone https://github.com/AKING110/Random.git`
 - `cd Random`
 - `python AKING.py`
